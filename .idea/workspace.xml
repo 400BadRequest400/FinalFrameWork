@@ -454,12 +454,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ETradeBank/src/main/java/tradeBankPackage/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/KaiserGroup/src/test/resources/KaiserGroupRunner.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -499,7 +495,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -566,17 +562,7 @@
               <item name="FinalFrameWork" type="462c0819:PsiDirectoryNode" />
               <item name="ETradeBank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FinalFrameWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FinalFrameWork" type="462c0819:PsiDirectoryNode" />
-              <item name="ETradeBank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tradeBankPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FinalFrameWork" type="b2602c69:ProjectViewProjectNode" />
@@ -584,11 +570,30 @@
               <item name="ETradeBank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FinalFrameWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="FinalFrameWork" type="462c0819:PsiDirectoryNode" />
-              <item name="ETradeBank" type="462c0819:PsiDirectoryNode" />
+              <item name="KaiserGroup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalFrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="KaiserGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalFrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="KaiserGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalFrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="KaiserGroup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -860,6 +865,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ETradeBank/src/main/java/tradeBankPackage/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ETradeBank/src/test/resources/EtradeBankRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -867,12 +879,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ETradeBank/src/main/java/tradeBankPackage/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/KaiserGroup/src/test/resources/KaiserGroupRunner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
